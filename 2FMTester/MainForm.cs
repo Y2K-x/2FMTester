@@ -45,14 +45,15 @@ namespace _2FMTester
             }
         }
 
-        private void pcsxCon_Click(object sender, EventArgs e)
+        private void MainForm_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void MainForm_Load(object sender, EventArgs e)
+        private void pcsxCon_Click(object sender, EventArgs e)
         {
-
+            BooleanSetter();
+            MDLXWriter();
         }
 
         private void readBytesToolStripMenuItem_Click(object sender, EventArgs e)
@@ -77,7 +78,7 @@ namespace _2FMTester
 
             if (fileSelect.ShowDialog() == DialogResult.OK)
             {
-                label2.Text = "File: " + fileSelect.SafeFileName;
+                LoadLabel.Text = "File: " + fileSelect.SafeFileName;
                 string ext = Path.GetExtension(fileSelect.FileName);
 
                 if (ext == ".mdlx")

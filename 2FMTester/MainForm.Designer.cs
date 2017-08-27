@@ -36,7 +36,7 @@
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.button1 = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
+            this.LoadLabel = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.readBytesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -70,7 +70,7 @@
             this.groupBox1.Controls.Add(this.radioButton1);
             this.groupBox1.Controls.Add(this.progressBar1);
             this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.LoadLabel);
             this.groupBox1.Location = new System.Drawing.Point(12, 40);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(164, 136);
@@ -116,14 +116,14 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // label2
+            // LoadLabel
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(6, 16);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(103, 13);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "File: No file loaded...";
+            this.LoadLabel.AutoSize = true;
+            this.LoadLabel.Location = new System.Drawing.Point(6, 16);
+            this.LoadLabel.Name = "LoadLabel";
+            this.LoadLabel.Size = new System.Drawing.Size(103, 13);
+            this.LoadLabel.TabIndex = 0;
+            this.LoadLabel.Text = "File: No file loaded...";
             // 
             // menuStrip1
             // 
@@ -146,7 +146,7 @@
             // readBytesToolStripMenuItem
             // 
             this.readBytesToolStripMenuItem.Name = "readBytesToolStripMenuItem";
-            this.readBytesToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.readBytesToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.readBytesToolStripMenuItem.Text = "Read Bytes...";
             this.readBytesToolStripMenuItem.Click += new System.EventHandler(this.readBytesToolStripMenuItem_Click);
             // 
@@ -187,7 +187,7 @@
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Label label2;
+        public System.Windows.Forms.Label LoadLabel;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem readBytesToolStripMenuItem;

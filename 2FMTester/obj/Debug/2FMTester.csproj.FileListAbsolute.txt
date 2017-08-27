@@ -8,3 +8,13 @@ c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug
 c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\2FMTester.exe
 c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\2FMTester.pdb
 c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\_2FMTester.ReadForm.resources
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\bin\Debug\2FMTester.exe.config
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\obj\Debug\2FMTester.exe
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\obj\Debug\2FMTester.pdb
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\bin\Debug\2FMTester.exe
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\bin\Debug\2FMTester.pdb
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\obj\Debug\2FMTester.csprojResolveAssemblyReference.cache
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\obj\Debug\_2FMTester.MainForm.resources
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\obj\Debug\_2FMTester.Properties.Resources.resources
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\obj\Debug\_2FMTester.ReadForm.resources
+C:\Users\Topaz M. Quartz\Desktop\2FMTester-master\2FMTester\obj\Debug\2FMTester.csproj.GenerateResource.Cache
