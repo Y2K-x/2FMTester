@@ -1,0 +1,10 @@
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\bin\Debug\2FMTester.exe.config
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\bin\Debug\2FMTester.exe
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\bin\Debug\2FMTester.pdb
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\2FMTester.csprojResolveAssemblyReference.cache
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\_2FMTester.MainForm.resources
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\_2FMTester.Properties.Resources.resources
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\2FMTester.csproj.GenerateResource.Cache
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\2FMTester.exe
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\2FMTester.pdb
+c:\users\y2k\documents\visual studio 2015\Projects\2FMTester\2FMTester\obj\Debug\_2FMTester.ReadForm.resources
